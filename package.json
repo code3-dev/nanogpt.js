@@ -1,0 +1,45 @@
+{
+  "name": "nanogpt",
+  "version": "2.0.0",
+  "description": "ChatGPT4/3.5-turbo free and unlimited.",
+  "main": "main.js",
+  "type": "commonjs",
+  "exports": {
+    ".": {
+      "import": "./main.js",
+      "require": "./main.js"
+    }
+  },
+  "devDependencies": {
+    "prettier": "3.3.3"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code3-dev/nanogpt.js.git"
+  },
+  "author": "Hossein Pira",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/code3-dev/nanogpt.js/issues"
+  },
+  "homepage": "https://github.com/code3-dev/nanogpt.js",
+  "keywords": [
+    "nodejs",
+    "bun",
+    "gpt-3",
+    "gpt-4",
+    "chatgpt",
+    "nanogpt.js",
+    "ollama",
+    "ollama-api",
+    "gemini",
+    "blackbox",
+    "javascript",
+    "ai",
+    "chatbot",
+    "nlp",
+    "machine-learning",
+    "nanogpt"
+  ]
+}
